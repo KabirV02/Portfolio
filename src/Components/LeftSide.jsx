@@ -1,22 +1,10 @@
 import React, { useEffect } from 'react'
-import '../Components/LeftSide.css'
+import '../Components/leftSide.css'
 import boyLogo from '../assets/boyLogo.png'
-import { Link } from 'react-router';
-import { IoMailOutline } from "react-icons/io5";
-import { FaBehance } from "react-icons/fa";
-import { FaBasketball } from "react-icons/fa6";
-import { LuLightbulb } from "react-icons/lu";
 import { FaHome } from "react-icons/fa";
 import { CgProfile } from "react-icons/cg";
-import { BsBoxes } from "react-icons/bs";
 import { FaIdCard } from "react-icons/fa";
-import { RiBriefcaseLine } from "react-icons/ri";
-import { AiOutlineTag } from "react-icons/ai";
-import { IoNewspaperOutline } from "react-icons/io5";
-import { MdAlternateEmail } from "react-icons/md";
 import { GrDocumentDownload } from "react-icons/gr";
-import AboutMe from './AboutMe';
-import Hero from './Hero';
 import Aos from 'aos';
 import "aos/dist/aos.css"; // Import AOS styles
 

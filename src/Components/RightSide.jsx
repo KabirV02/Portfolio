@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import '../Components/RightSide.css';
+import '../Components/rightSide.css';
 import RightkaLeft from './RightkaLeft';
 import AboutMe from './AboutMe';
 import Aos from 'aos'; 
